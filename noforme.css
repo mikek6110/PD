@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(101, 102, 102);
+  }
+h1 {
+    text-align: right;
+    color: rgb(146, 20, 20);
+}
+img {
+  border-style:ridge;
+  border-color: white;
+}
+  #bild{
+      background-color: rgb(216, 180, 43);
+      
+  }
+  #zemenes{
+    background-color: rgb(33, 209, 33);
+    border-style: solid;
+    border-color: red;
+  }
+  table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  #krasa{
+    background-color: rgb(113, 199, 199);
+  }
